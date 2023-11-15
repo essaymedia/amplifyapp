@@ -2,6 +2,7 @@ import logo from './EssayMedia-1280.png';
 import instagram from './Instagram_White.png';
 import facebook from './Facebook_White.png';
 import galleries from './Galleries.png';
+import email from './Email.png';
 import './App.css';
 
 
@@ -22,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Contact
+          <img src={email} className="Socials" alt="Email" />
         </a>
         </div>
           <div class="Social-link">
