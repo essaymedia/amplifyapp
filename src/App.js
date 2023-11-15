@@ -13,15 +13,18 @@ function App() {
         <p>
           Photography & Videography
         </p>
+    
+        <p>
+          <div class="Social-link">
         <a
-          className="App-link"
+          className="Social-link"
           href="mailto:scott@essaymediawv.com"
           target="_blank"
           rel="noopener noreferrer"
         >
           Contact
         </a>
-        <p>
+        </div>
           <div class="Social-link">
           <a
             className="Social-link"
