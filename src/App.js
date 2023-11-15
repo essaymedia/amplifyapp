@@ -1,7 +1,7 @@
 import logo from './EssayMedia-1280.png';
 import instagram from './Instagram_White.png';
 import facebook from './Facebook_White.png';
-import galleries from './Galleries.png';
+import galleries from './Browse.png';
 import email from './Email.png';
 import './App.css';
 
